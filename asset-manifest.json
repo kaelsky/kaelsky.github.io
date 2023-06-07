@@ -1,17 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e91e9056.css",
-    "main.js": "/static/js/main.00e189d7.js",
-    "static/media/VarelaRound-Regular.ttf": "/static/media/VarelaRound-Regular.6b0ad79431843e696f58.ttf",
-    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "main.css": "/static/css/main.59241600.css",
+    "main.js": "/static/js/main.92142763.js",
+    "static/media/onlydust-title.svg": "/static/media/onlydust-title.dcd807a212e6541a946a7176f32f630a.svg",
     "index.html": "/index.html",
-    "main.e91e9056.css.map": "/static/css/main.e91e9056.css.map",
-    "main.00e189d7.js.map": "/static/js/main.00e189d7.js.map"
+    "main.59241600.css.map": "/static/css/main.59241600.css.map",
+    "main.92142763.js.map": "/static/js/main.92142763.js.map"
   },
   "entrypoints": [
-    "static/css/main.e91e9056.css",
-    "static/js/main.00e189d7.js"
+    "static/css/main.59241600.css",
+    "static/js/main.92142763.js"
   ]
 }
