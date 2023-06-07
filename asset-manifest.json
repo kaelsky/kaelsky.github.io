@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.59241600.css",
-    "main.js": "/static/js/main.92142763.js",
+    "main.css": "/static/css/main.d316c13c.css",
+    "main.js": "/static/js/main.56d13290.js",
     "static/media/onlydust-title.svg": "/static/media/onlydust-title.dcd807a212e6541a946a7176f32f630a.svg",
     "index.html": "/index.html",
-    "main.59241600.css.map": "/static/css/main.59241600.css.map",
-    "main.92142763.js.map": "/static/js/main.92142763.js.map"
+    "main.d316c13c.css.map": "/static/css/main.d316c13c.css.map",
+    "main.56d13290.js.map": "/static/js/main.56d13290.js.map"
   },
   "entrypoints": [
-    "static/css/main.59241600.css",
-    "static/js/main.92142763.js"
+    "static/css/main.d316c13c.css",
+    "static/js/main.56d13290.js"
   ]
 }
